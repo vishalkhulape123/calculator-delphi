@@ -4,7 +4,7 @@ object Form1: TForm1
   BorderStyle = bsSingle
   Caption = 'The Best Calculator Ever'
   ClientHeight = 492
-  ClientWidth = 344
+  ClientWidth = 336
   Color = clBtnFace
   Font.Charset = DEFAULT_CHARSET
   Font.Color = clWindowText
@@ -12,6 +12,7 @@ object Form1: TForm1
   Font.Name = 'Segoe UI Light'
   Font.Style = []
   OldCreateOrder = False
+  StyleElements = [seFont, seClient]
   PixelsPerInch = 96
   TextHeight = 25
   object sevenButton: TButton

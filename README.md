@@ -1,5 +1,6 @@
 # calculator-delphi
 A simple calculator Windows application created in Delphi. Mainly just to get familiar with the language
+Current stage it is not responsive 
 
 <img src="http://i.imgur.com/Qotx0L3.png" width="40%"/>
 
